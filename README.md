@@ -28,3 +28,21 @@ Data Dictionary:
     m1 to m12 : Month-wise loan performance (deliquency in months)
     m13 : target, loan deliquency status (0 = non deliquent, 1 = deliquent)
 
+
+Understanding Banking terms
+
+    Debt to income ratio:
+
+        measures the amount of income a person or organization generates in order to service a debt. A low DTI ratio indicates sufficient income relative to debt servicing, and makes a borrower more attractive.
+
+    Loan to Value ratio :
+
+        A loan-to-value (LTV) ratio compares the amount of a loan you're hoping to borrow against the appraised value of the property you want to buy. Lenders use LTVs to determine how risky a loan is and whether they'll approve or deny it. A higher LTV ratio suggests more risk because there's a higher chance of default. The more money a lender gives you, the higher your LTV ratio and the more risk they’re taking. If you're considered a higher risk for the lender, this usually means that:
+            It’s harder to get approved for loans.
+            You might have to pay a higher interest rate.
+            You might have to pay additional costs, such as mortgage insurance.
+
+    Insurance percent
+
+        a provision in a health insurance contract stipulating that the insurer and insured will share covered losses in agreed proportions. For example, the insurer may be required to pay 80 percent of the insured's hospital costs with the insured responsible for the remainder. >
+
